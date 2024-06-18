@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a second year computer science and applied mathematics <br>student at Fordham University, passionate about the realms of <br>coding, machine learning, and building robust applications.
+I'm a third year computer science and applied mathematics <br>student at Fordham University, passionate about the realms of <br>coding, machine learning, and building robust applications.
 
 
 ## 🌐 Socials:
@@ -11,12 +11,6 @@ I'm a second year computer science and applied mathematics <br>student at Fordha
 ![](https://github-readme-stats.vercel.app/api?username=donald-ye&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=donald-ye&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=donald-ye&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=donald-ye&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=donald-ye&icon=0&color=1)](https://visitcount.itsvg.in)
